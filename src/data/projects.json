@@ -1,20 +1,47 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "title": "EEE Bootcamp",
+    "description": "Official website for the EEE branch at IIIT Bhubaneswar, serving as a digital archive for students, achievements, and memories.",
+    "images": [],
     "tech": ["Astro", "Tailwind"],
     "platforms": ["web"],
-    "link": "#",
-    "category": "Published Website"
+    "link": "https://eee-bootcamp.vercel.app",
+    "category": "Official Website"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "#",
-    "category": "Hobby"
+    "title": "College Forum",
+    "description": "A full-stack community forum for students. Features a TypeScript monorepo with React, Fastify, and PostgreSQL.",
+    "images": [],
+    "tech": ["React", "Fastify", "PostgreSQL", "Drizzle ORM", "Tailwind"],
+    "platforms": ["web"],
+    "link": "https://github.com/burgerphilic18/purple-face",
+    "category": "Web App"
+  },
+  {
+    "title": "Web3 Lottery",
+    "description": "A fully decentralized lottery system using Solidity smart contracts and Chainlink VRF for provable randomness.",
+    "images": [],
+    "tech": ["Solidity", "Hardhat", "Chainlink", "Next.js", "Ethers.js"],
+    "platforms": ["web"],
+    "link": "https://nextjs-lottery-seven.vercel.app/",
+    "category": "Web3"
+  },
+  {
+    "title": "D3 Fest Website",
+    "description": "Central hub for fest events, schedules, and registrations with a scalable component system.",
+    "images": [],
+    "tech": ["React", "Tailwind", "Vite"],
+    "platforms": ["web"],
+    "link": "https://d3fest.techsoc-iiitbbsr.com/",
+    "category": "Fest Website"
+  },
+  {
+    "title": "Advaita Fest Website",
+    "description": "Full event platform for Advaita IIIT Bhubaneswar, focusing on scalability and reusable UI components.",
+    "images": [],
+    "tech": ["Next.js", "Tailwind", "TypeScript"],
+    "platforms": ["web"],
+    "link": "https://advaita-iiitbh.com/",
+    "category": "Event Platform"
   }
 ]

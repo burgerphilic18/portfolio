@@ -1,26 +1,18 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
-  },
-  {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
-  },
-  {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "company": "IIIT Bhubaneswar",
+    "role": "B.Tech in Electrical & Electronics Engineering",
+    "period": "Aug 2024 – June 2028",
     "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "Pursuing engineering degree with a focus on Electrical & Electronics, while building expertise in fullstack development and Web3.",
+    "skills": ["JavaScript", "Python", "Web3"]
+  },
+  {
+    "company": "DAV Public School, Chandrasekharpur",
+    "role": "Senior Secondary Education",
+    "period": "Apr 2014 – May 2024",
+    "type": "Student",
+    "description": "Completed school education with a strong foundation in science and mathematics.",
+    "skills": ["Physics", "Mathematics", "Computer Science"]
   }
 ]
