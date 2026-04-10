@@ -16,6 +16,7 @@ interface ProfileData {
   introHtml: string;
   resumeUrl: string;
   socials: Social[];
+  handle: string;
 }
 
 const isApiLive = import.meta.env.PROD; // Auto true in production
@@ -36,7 +37,7 @@ if (isApiLive && BASE_URL) {
   data = localData as ProfileData;
 }
 
-const { name, photoUrl, intro, introHtml, resumeUrl, socials } = data;
+const { name, photoUrl, intro, introHtml, resumeUrl, socials, handle } = data;
 ---
 
 <section
@@ -78,6 +79,9 @@ const { name, photoUrl, intro, introHtml, resumeUrl, socials } = data;
     >
       {name}
     </h1>
+    <p class="text-accent/60 font-heading text-lg md:text-xl mt-2 tracking-wide lowercase">
+      a.k.a {handle}
+    </p>
     <br />
     <p
       class="text-gray font-body text-lg leading-relaxed"
