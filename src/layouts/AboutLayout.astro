@@ -49,6 +49,36 @@ const { frontmatter } = Astro.props;
 	.prose p {
 		@apply mb-6;
 	}
+	.prose img {
+		@apply max-w-full h-auto;
+	}
+	.prose .about-media {
+		@apply mb-6 overflow-hidden rounded-2xl border border-white/15 bg-white/5;
+	}
+	.prose .about-lfc-image {
+		@apply block w-full aspect-[16/9] object-cover;
+	}
+	.prose .about-icon-row {
+		@apply mb-6 flex flex-wrap items-center gap-3;
+	}
+	.prose .about-icon-row a {
+		@apply inline-flex flex-wrap items-center gap-3 no-underline;
+	}
+	.prose .about-icon-row img {
+		@apply m-0 rounded-xl border border-white/12 bg-slate-900/35 p-2 shadow-[0_8px_20px_rgba(0,0,0,0.22)];
+	}
+	.prose .about-tool-chips {
+		@apply mb-6 flex flex-wrap items-center gap-3;
+	}
+	.prose .about-tool-chip {
+		@apply inline-flex items-center gap-2 rounded-full border border-white/12 bg-white/5 px-3 py-1.5 text-sm font-medium text-gray-200;
+	}
+	.prose .about-tool-chip img {
+		@apply m-0 h-5 w-5 rounded-md;
+	}
+	.prose .about-inline-icon {
+		@apply inline-block h-5 w-5 align-middle mr-2 rounded-sm;
+	}
 	.prose ul {
 		@apply list-disc list-inside mb-6 space-y-2;
 	}

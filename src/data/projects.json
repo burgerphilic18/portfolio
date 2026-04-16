@@ -10,11 +10,11 @@
   },
   {
     "title": "College Forum",
-    "description": "A full-stack community forum for students. Features a TypeScript monorepo with React, Fastify, and PostgreSQL.",
+    "description": "Contributed to development of a full-stack community forum for students. Features a TypeScript monorepo with React, Fastify, and PostgreSQL.",
     "images": [],
-    "tech": ["React", "Fastify", "PostgreSQL", "Drizzle ORM", "Tailwind"],
+    "tech": ["React", "Fastify", "PostgreSQL", "Drizzle ORM", "Tailwind", "TypeScript"],
     "platforms": ["web"],
-    "link": "https://github.com/burgerphilic18/purple-face",
+    "link": "https://buzz.techsoc-iiitbbsr.com/",
     "category": "Web App"
   },
   {
