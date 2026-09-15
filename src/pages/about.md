@@ -5,7 +5,7 @@ description: Engineering student, fullstack developer, and occasional photograph
 ---
 # Yo, I'm Burgerphilic! 👋
 
-An Engineering student at **IIIT Bhubaneswar**, Software Development Intern at **Nursio Innovation**, and currently serving as the **Secretary of Tech Society, IIIT Bhubaneswar**. Between organizing national and state-level hackathons (110+ teams) and building campus event platforms, I spend way too much time staring at the computer (I don't wear specs just yet 😅). Welcome to my little corner on the internet.
+An Engineering student at **IIIT Bhubaneswar** and currently serving as the **Secretary of Tech Society, IIIT Bhubaneswar**. Between organizing national and state-level hackathons (110+ teams) and building campus event platforms, I spend way too much time staring at the computer (I don't wear specs just yet 😅). Welcome to my little corner on the internet.
 
 ---
 
