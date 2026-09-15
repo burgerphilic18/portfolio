@@ -1,11 +1,35 @@
 [
   {
+    "company": "Nursio Innovation",
+    "role": "Software Development Intern",
+    "period": "Jun 2026 – Present",
+    "type": "Internship",
+    "description": "Engineered startup website using Next.js 14 and Tailwind CSS (sub-1.5s initial load, SEO for 5+ pages). Architected internal dashboard with Prisma ORM and PostgreSQL with role-based access control. Built server-side APIs, integrated Clerk authentication, and deployed mobile PWA using Turborepo.",
+    "skills": ["Next.js", "Tailwind CSS", "Prisma ORM", "PostgreSQL", "Clerk", "Turborepo"]
+  },
+  {
+    "company": "Tech Society, IIIT Bhubaneswar",
+    "role": "Secretary",
+    "period": "Aug 2024 – Present",
+    "type": "Leadership",
+    "description": "Serving as Secretary. Organized national and state-level hackathons with 110+ teams and developed central event management platforms for campus fests.",
+    "skills": ["Leadership", "Hackathons", "Event Platforms", "Team Management"]
+  },
+  {
+    "company": "Google",
+    "role": "Google Student Ambassador",
+    "period": "Sep 2025 – Jan 2026",
+    "type": "Ambassador",
+    "description": "Conducted technical workshops showcasing Gemini AI tools and generative AI capabilities to students across campus.",
+    "skills": ["Gemini AI", "Technical Workshops", "Public Speaking"]
+  },
+  {
     "company": "IIIT Bhubaneswar",
     "role": "B.Tech in Electrical & Electronics Engineering",
-    "period": "Aug 2024 – June 2028",
+    "period": "Aug 2024 – Jun 2028",
     "type": "Student",
-    "description": "Pursuing engineering degree with a focus on Electrical & Electronics, while building expertise in fullstack development and Web3.",
-    "skills": ["JavaScript", "Python", "Web3"]
+    "description": "Pursuing Bachelor of Technology in Electrical & Electronics Engineering with a focus on full-stack development, cloud architecture, and modern web applications.",
+    "skills": ["TypeScript", "JavaScript", "Python", "C++"]
   },
   {
     "company": "DAV Public School, Chandrasekharpur",

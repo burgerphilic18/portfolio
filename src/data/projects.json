@@ -1,34 +1,34 @@
 [
   {
-    "title": "EEE Bootcamp",
-    "description": "Official website for the EEE branch at IIIT Bhubaneswar, serving as a digital archive for students, achievements, and memories.",
+    "title": "IIIT Community Forum",
+    "description": "Designed and implemented REST APIs using Fastify and PostgreSQL to handle posts, comments, and scalable threaded discussions. Enforced secure platform access through institute-verified email authentication and a robust relational schema, serving 100+ active users.",
     "images": [],
-    "tech": ["Astro", "Tailwind"],
+    "tech": ["React", "TypeScript", "Fastify", "PostgreSQL", "Drizzle ORM"],
+    "platforms": ["web", "github"],
+    "link": "https://github.com/burgerphilic18/purple-face",
+    "category": "Community Forum"
+  },
+  {
+    "title": "Chowkidaar Discord Bot",
+    "description": "Migrated legacy commands to Discord Slash Commands, improving user experience and reducing latency by 40%. Engineered high-availability GCP backend with systemd maintaining 99%+ uptime for 200+ members, and optimized database pooling with Neon.",
+    "images": [],
+    "tech": ["Python", "discord.py", "PostgreSQL", "Neon", "Google Cloud Platform"],
+    "platforms": ["discord", "github"],
+    "link": "https://github.com/burgerphilic18/chowkidaar",
+    "category": "Discord Bot"
+  },
+  {
+    "title": "EEE Bootcamp Platform",
+    "description": "Full-stack platform restricted to institute emails using OAuth2 and automatic academic batch assignment logic. Developed backend services via Supabase to manage and store 40+ authenticated student profiles.",
+    "images": [],
+    "tech": ["Next.js", "Supabase", "OAuth2", "TailwindCSS"],
     "platforms": ["web"],
     "link": "https://eee-bootcamp.vercel.app",
-    "category": "Official Website"
-  },
-  {
-    "title": "College Forum",
-    "description": "Contributed to development of a full-stack community forum for students. Features a TypeScript monorepo with React, Fastify, and PostgreSQL.",
-    "images": [],
-    "tech": ["React", "Fastify", "PostgreSQL", "Drizzle ORM", "Tailwind", "TypeScript"],
-    "platforms": ["web"],
-    "link": "https://buzz.techsoc-iiitbbsr.com/",
-    "category": "Web App"
-  },
-  {
-    "title": "Web3 Lottery",
-    "description": "A fully decentralized lottery system using Solidity smart contracts and Chainlink VRF for provable randomness.",
-    "images": [],
-    "tech": ["Solidity", "Hardhat", "Chainlink", "Next.js", "Ethers.js"],
-    "platforms": ["web"],
-    "link": "https://nextjs-lottery-seven.vercel.app/",
-    "category": "Web3"
+    "category": "Official Platform"
   },
   {
     "title": "D3 Fest Website",
-    "description": "Central hub for fest events, schedules, and registrations with a scalable component system.",
+    "description": "Central hub for fest events, schedules, and registrations with a scalable component system, built for Tech Society, IIIT Bhubaneswar.",
     "images": [],
     "tech": ["React", "Tailwind", "Vite"],
     "platforms": ["web"],
@@ -37,7 +37,7 @@
   },
   {
     "title": "Advaita Fest Website",
-    "description": "Full event platform for Advaita IIIT Bhubaneswar, focusing on scalability and reusable UI components.",
+    "description": "Full event platform for Advaita, the annual cultural and technical fest of IIIT Bhubaneswar, focusing on scalability and reusable UI components.",
     "images": [],
     "tech": ["Next.js", "Tailwind", "TypeScript"],
     "platforms": ["web"],

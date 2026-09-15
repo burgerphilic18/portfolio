@@ -4,14 +4,14 @@
       "title": "Languages",
       "skills": [
         {
+          "name": "TypeScript",
+          "level": 3,
+          "icon": "skill-icons:typescript"
+        },
+        {
           "name": "JavaScript",
           "level": 3,
           "icon": "skill-icons:javascript"
-        },
-        {
-          "name": "TypeScript",
-          "level": 2,
-          "icon": "skill-icons:typescript"
         },
         {
           "name": "Python",
@@ -19,24 +19,14 @@
           "icon": "skill-icons:python-dark"
         },
         {
-          "name": "C",
-          "level": 2,
-          "icon": "skill-icons:c"
-        },
-        {
           "name": "C++",
           "level": 2,
           "icon": "skill-icons:cpp"
-        },
-        {
-          "name": "Solidity",
-          "level": 2,
-          "icon": "skill-icons:solidity"
         }
       ]
     },
     {
-      "title": "Web2 Development",
+      "title": "Frontend",
       "skills": [
         {
           "name": "React.js",
@@ -49,9 +39,29 @@
           "icon": "skill-icons:nextjs-dark"
         },
         {
+          "name": "Tailwind CSS",
+          "level": 3,
+          "icon": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "shadcn/ui",
+          "level": 2,
+          "icon": "vscode-icons:file-type-shadcn"
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "skills": [
+        {
           "name": "Node.js",
           "level": 3,
           "icon": "skill-icons:nodejs-dark"
+        },
+        {
+          "name": "Fastify",
+          "level": 3,
+          "icon": "mdi:lightning-bolt"
         },
         {
           "name": "Express.js",
@@ -59,33 +69,23 @@
           "icon": "skill-icons:expressjs-dark"
         },
         {
-          "name": "TailwindCSS",
-          "level": 3,
-          "icon": "skill-icons:tailwindcss-dark"
-        },
-        {
           "name": "PostgreSQL",
           "level": 3,
           "icon": "skill-icons:postgresql-dark"
-        }
-      ]
-    },
-    {
-      "title": "Web3 Development",
-      "skills": [
-        {
-          "name": "Hardhat",
-          "level": 2,
-          "icon": "vscode-icons:file-type-hardhat"
         },
         {
-          "name": "Ethers.js",
+          "name": "Prisma ORM",
           "level": 2,
-          "icon": "mdi:ethereum"
+          "icon": "skill-icons:prisma"
         },
         {
-          "name": "Chainlink VRF",
+          "name": "Drizzle ORM",
           "level": 2,
+          "icon": "mdi:database"
+        },
+        {
+          "name": "REST APIs",
+          "level": 3,
           "icon": "mdi:api"
         }
       ]
@@ -99,14 +99,24 @@
           "icon": "skill-icons:git"
         },
         {
-          "name": "GitHub",
-          "level": 3,
-          "icon": "skill-icons:github-dark"
-        },
-        {
           "name": "Linux",
           "level": 3,
           "icon": "skill-icons:linux-dark"
+        },
+        {
+          "name": "Turborepo",
+          "level": 2,
+          "icon": "vscode-icons:file-type-turbo"
+        },
+        {
+          "name": "Redis",
+          "level": 2,
+          "icon": "skill-icons:redis-dark"
+        },
+        {
+          "name": "Google Cloud Platform",
+          "level": 2,
+          "icon": "skill-icons:gcp-dark"
         },
         {
           "name": "Vercel",
@@ -115,18 +125,23 @@
         },
         {
           "name": "Supabase",
-          "level": 1,
+          "level": 2,
           "icon": "skill-icons:supabase-dark"
         },
         {
           "name": "Firebase",
-          "level": 1,
+          "level": 2,
           "icon": "vscode-icons:file-type-firebase"
         },
         {
-          "name": "Drizzle ORM",
+          "name": "Clerk",
           "level": 2,
-          "icon": "mdi:database"
+          "icon": "mdi:shield-account"
+        },
+        {
+          "name": "Neon",
+          "level": 2,
+          "icon": "mdi:database-outline"
         }
       ]
     }
